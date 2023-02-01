@@ -11,4 +11,4 @@ Write a HashMap Implementation in two forms -- one via separate chaining and the
     resize_table() 
     get_keys() 
     
-See the pdf: <a href="/OSU CS261 A6 - W22.pdf"></a> for more details on the requirements.
+See the pdf: <a href="/OSU CS261 A6 - W22.pdf">OSU CS261 A6 - W22.pdf</a> for more details on the requirements.
